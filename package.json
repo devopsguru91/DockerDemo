@@ -11,14 +11,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/prakhar1989/docker-curriculum.git"
+    "url": "git+https://github.com/devopsguru91/docker-curriculum.git"
   },
-  "author": "Prakhar Srivastav <prakhar1989@gmail.com>",
+  "author": "DevOpsGuru91 <devopsguru91@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/prakhar1989/docker-curriculum/issues"
+    "url": "https://github.com/devopsguru91/docker-curriculum/issues"
   },
-  "homepage": "https://github.com/prakhar1989/docker-curriculum#readme",
+  "homepage": "https://github.com/devopsguru91/docker-curriculum#readme",
   "dependencies": {
     "handlebars": "^4.0.5",
     "metalsmith": "^2.1.0",
