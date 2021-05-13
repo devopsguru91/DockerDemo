@@ -18,7 +18,7 @@ spec:
         app: k8s-training
     spec:
       containers:
-      - image: docker.io/devopsguru91/test-jenkins-image
+      - image: docker.io/devopsguru91/test-jenkins-image:latest
         name: k8s-training
         resources: {}
 status: {}
